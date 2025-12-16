@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </p>
-
-<p align="center">
-  <i>software • systems • AI</i>
-</p>
-
 
 <h1 align="center">Hi, I’m Vaishnavi 👋🏽</h1>
 
