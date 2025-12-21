@@ -111,13 +111,3 @@ If you’re interested in my work or want to collaborate, feel free to reach out
 
 - **LinkedIn:** https://www.linkedin.com/in/vaishnavi-mahajan-8b2741290/
 - **Email:** vaishhhm09@gmail.com
-
-📊 GitHub Stats (enable later)
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishh09&show_icons=true)
-
-🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaishh09)
-
-🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishh09&layout=compact)
-
