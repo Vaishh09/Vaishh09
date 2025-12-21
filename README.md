@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" />
 </p>
 
-<h1 align="center">Hi, I’m Vaishnavi 👋🏽</h1>
+<h1 align="center">Hi, I’m Vaishnavi</h1>
 
 <p align="center">
-  <i>Software Engineer • ML Enthusiast • Backend & Full-Stack</i>
+  <i>Full-Stack Software Engineer · Machine Learning</i>
 </p>
 
 <p align="center">
-  ☕ coding & matcha &nbsp;·&nbsp; 🤖 AI for good &nbsp;·&nbsp; 🚀 building things that matter
+  Building thoughtful software products with AI where it adds real value
 </p>
 
 ---
